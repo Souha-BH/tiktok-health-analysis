@@ -21,6 +21,6 @@ As an annotator, your task is to watch no more than 30 seconds of each TikTok vi
    - **Unrisky Behavior**: [Link to video](https://www.tiktok.com/@altheagrefaldon/video/7371328497387572485) The video shows the positive outcome of being on a healthy diet.
    - **Risky Behavior (Smoking)**: [Link to video](https://www.tiktok.com/@lacrane95/video/7383154299846626606) The video mentions the behavior of "smoking cigarettes" in a positive way.
    - **Risky Behavior (Alcohol Consumption)**: [Link to video](https://www.tiktok.com/@eybmk/video/7403301569157958945): The video mentions the behavior of "getting drunk" without discouraging it.
-   - **Risky Behavior (Unhealthy Diet)**: [Link to video](https://www.tiktok.com/@shadezs/video/7363347059547622689) The video shows unhealthy food habits.
+   - **Risky Behavior (Unhealthy Diet)**: [Link to video](https://www.tiktok.com/@asmr.comidas4/video/7280698374452530437) The video shows unhealthy food habits.
 
 5. If you face any issues while annotating please contact me through Discord: souhabenhassine, or email: souhabh@umich.edu
