@@ -24,7 +24,7 @@ I retained the following columns from the scraped data for further analysis:
 Each row in the dataset corresponds to one TikTok video.
 
 ## Data Summary
-- Total Instances: Approximately 600 videos.
+- Total Instances: 637 videos.
 - Sampling Strategy: The data was sampled by limiting the number of videos to 100 per hashtag across six hashtags. 
 - Labeling Time Estimate: Based on a preliminary review, labeling each instance in this dataset (categorizing the behavior depicted in the video) is expected to take between 5 to 20 seconds per video. 
 
